@@ -475,3 +475,6 @@ dbadmin@dbserver.co2fg22sgwmb.us-west-2.rds.amazonaws.com:3306 deleting
 
 Once the instance has been completely deleted, running the list script again should return an empty list.
 
+
+/howtoguides/posts/show/topic/14209-automating-aws-with-python-and-boto3
+
